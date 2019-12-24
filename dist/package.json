@@ -4,7 +4,7 @@
   "description": "==================================================================================================",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d portfolio-website"
   },
   "keywords": [],
   "author": "",
@@ -12,12 +12,5 @@
   "homepage": "https://dkravtsova1995.github.io/portfolio-website",
   "dependencies": {
     "gh-pages": "^2.1.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dkravtsova1995/portfolio-website.git"
-  },
-  "bugs": {
-    "url": "https://github.com/dkravtsova1995/portfolio-website/issues"
   }
 }
